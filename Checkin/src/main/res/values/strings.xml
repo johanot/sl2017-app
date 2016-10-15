@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Spejderneslejr</string>
+
+	<string name="preference_file_key">dk.spejderneslejr.checkin.preferences</string>
+	<string name="tag_list_key">dk.spejderneslejr.checkin.taglist</string>
+	<string name="please_login">CampOS - Log ind</string>
+
+
+	<string name="action_settings">Settings</string>
+</resources>
